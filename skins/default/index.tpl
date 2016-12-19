@@ -33,6 +33,9 @@
 	</div>	
 <div class="main">
 	<div id="content">
+		<div class="slide">
+			<img src="/image/slide.jpg">
+		</div>
 		<p>1</p>
 		<p>1</p>
 		<p>1</p>
